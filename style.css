@@ -185,8 +185,17 @@ nav {
 }
 
 .pull-left {
-    float: left; 
-    margin-right: 10px; 
+    float: left;  
+}
+
+p {
+    font-size: 20px;
+}
+
+.footer p {
+    font-size: 10px;
+    font-family: 'Rubik', sans-serif;
+    float: right; 
 }
 
 
