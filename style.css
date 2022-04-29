@@ -197,6 +197,7 @@ nav {
   img {
     max-width: 100%;
     max-height: 100%;
+    display: block;
 }
 
 .fill {
@@ -248,9 +249,7 @@ p {
     max-width: 960px    
 }
 
-.present {
-   display: table;
-}
+
 
 .fourthRow {
     background-color: green;
@@ -269,6 +268,9 @@ td, th {
 }
 
 
-
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
 
 
